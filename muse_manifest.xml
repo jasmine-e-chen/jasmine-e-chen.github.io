@@ -1,0 +1,56 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1608803305842">
+  <folder name="css">
+    <file name="site_global.css" crc="347579958"/>
+    <file name="index.css" crc="464784932" ref="index"/>
+    <file name="1.css" crc="4172478462" ref="1"/>
+    <file name="2.css" crc="426580580" ref="2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:1:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:1:2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:1:2"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:1:2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="white-blue_totoro.png" crc="4193661685" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white-blue_totoro_2x.png" crc="134267917" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6637.jpg" crc="4196254973" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13312785_10154280923004903_6256569627598559685_n-crop-u372.jpg" crc="467869064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13312785_10154280923004903_6256569627598559685_n-crop-u372_2x.jpg" crc="4168274934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pika.jpg" crc="3802199003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pika_2x.jpg" crc="185653831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="demon slayer.jpg" crc="4140167350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="demon slayer_2x.jpg" crc="3886911891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3977982147" seo="true" mt="1608802546924" redirect="true"/>
+  <file name="1.html" crc="198635338" seo="true" mt="1608197406543" redirect="true"/>
+  <file name="2.html" crc="257447048" seo="true" mt="1608799094086" redirect="true"/>
+</manifest>

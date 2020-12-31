@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://jasmine.com/index.html</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jasmine.com/images/13312785_10154280923004903_6256569627598559685_n-crop-u372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/13312785_10154280923004903_6256569627598559685_n-crop-u372_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/pika.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/pika_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/demon%20slayer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/demon%20slayer_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jasmine.com/1.html</loc>
+    <lastmod>2020-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jasmine.com/2.html</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
