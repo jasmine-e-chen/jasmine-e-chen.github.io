@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1610987026983">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1610988024564">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
-    <file name="index.css" crc="4194638734" ref="index"/>
+    <file name="index.css" crc="4074625295" ref="index"/>
     <file name="1.css" crc="3803578691" ref="1"/>
     <file name="2.css" crc="426580580" ref="2"/>
   </folder>
@@ -11,7 +11,6 @@
     <file name="whatinput.js" crc="86476730" ref="index:1:2"/>
     <file name="museconfig.js" crc="380897831" ref="index:1:2"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:1:2"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index:1:2"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
   </folder>
@@ -29,7 +28,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3986047810" seo="true" mt="1610985901031" redirect="true"/>
-  <file name="1.html" crc="319006718" seo="true" mt="1610986965617" redirect="true"/>
+  <file name="index.html" crc="44546330" seo="true" mt="1610988015765" redirect="true"/>
+  <file name="1.html" crc="3910850837" seo="true" mt="1610987054924" redirect="true"/>
   <file name="2.html" crc="257447048" seo="true" mt="1608799094086" redirect="true"/>
 </manifest>
