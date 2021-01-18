@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1610985985657">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1610986442284">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
     <file name="index.css" crc="4194638734" ref="index"/>
