@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1610986442284">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1610987026983">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
     <file name="index.css" crc="4194638734" ref="index"/>
-    <file name="1.css" crc="3924431724" ref="1"/>
+    <file name="1.css" crc="3803578691" ref="1"/>
     <file name="2.css" crc="426580580" ref="2"/>
   </folder>
   <folder name="scripts">
@@ -30,6 +30,6 @@
     </file>
   </folder>
   <file name="index.html" crc="3986047810" seo="true" mt="1610985901031" redirect="true"/>
-  <file name="1.html" crc="14910971" seo="true" mt="1610985977091" redirect="true"/>
+  <file name="1.html" crc="319006718" seo="true" mt="1610986965617" redirect="true"/>
   <file name="2.html" crc="257447048" seo="true" mt="1608799094086" redirect="true"/>
 </manifest>
