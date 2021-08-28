@@ -83,6 +83,12 @@
     <image:image>
       <image:loc>http://jasmine.com/images/0174_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A73_missinghorn.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A73_missinghorn_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://jasmine.com/sock.html</loc>

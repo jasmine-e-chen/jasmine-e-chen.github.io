@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1630144362036">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1630145884762">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
     <file name="index.css" crc="55103289" ref="index"/>
@@ -6,7 +6,7 @@
     <file name="about.css" crc="4225131602" ref="about"/>
     <file name="contact.css" crc="324373272" ref="contact"/>
     <file name="sock.css" crc="4166974599" ref="sock"/>
-    <file name="missing-horn.css" crc="407209878" ref="missing-horn"/>
+    <file name="missing-horn.css" crc="105319909" ref="missing-horn"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:about:contact:missing-horn:sock"/>
@@ -78,51 +78,51 @@
     <file name="u1355-4.png" crc="150078192" ref="missing-horn"/>
     <file name="u1355-4_2x.png" crc="4217327934" ref="missing-horn"/>
     <file name="0109.jpg" crc="254235288" seo="true" ref="missing-horn">
+      <caption webpage="sock" alt=""/>
+      <caption webpage="sock" alt=""/>
       <caption webpage="missing-horn" alt=""/>
-      <caption webpage="sock" alt=""/>
-      <caption webpage="sock" alt=""/>
     </file>
     <file name="0109_2x.jpg" crc="139014702" seo="true" ref="missing-horn">
+      <caption webpage="sock" alt=""/>
+      <caption webpage="sock" alt=""/>
       <caption webpage="missing-horn" alt=""/>
-      <caption webpage="sock" alt=""/>
-      <caption webpage="sock" alt=""/>
     </file>
     <file name="u1479-4.png" crc="3955893725" ref="animation"/>
     <file name="u1479-4_2x.png" crc="3984879381" ref="animation"/>
     <file name="u1488-4.png" crc="149643576" ref="animation"/>
     <file name="u1488-4_2x.png" crc="367931099" ref="animation"/>
     <file name="aniposter2.png" crc="357486634" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="aniposter2_2x.png" crc="151929904" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="missing horn_角色設定1.jpg" crc="3785422031" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="missing horn_角色設定1_2x.jpg" crc="4050677462" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="missing horn_分鏡.jpg" crc="477606940" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="missing horn_分鏡_2x.jpg" crc="3892403437" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="missing-horn:sock"/>
     <file name="0174.jpg" crc="523772580" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="0174_2x.jpg" crc="354003524" seo="true" ref="missing-horn">
-      <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
+      <caption webpage="missing-horn" alt=""/>
     </file>
     <file name="劇照3.jpg" crc="4291913918" seo="true" ref="sock">
       <caption webpage="missing-horn" alt=""/>
@@ -245,11 +245,17 @@
     <file name="u2886-4_2x.png" crc="366237139" ref="about"/>
     <file name="u2895-5.png" crc="97562538" ref="about"/>
     <file name="u2895-5_2x.png" crc="18390833" ref="about"/>
+    <file name="劇照3_missinghorn.jpg" crc="522463467" seo="true" ref="missing-horn">
+      <caption webpage="missing-horn" alt=""/>
+    </file>
+    <file name="劇照3_missinghorn_2x.jpg" crc="4285917162" seo="true" ref="missing-horn">
+      <caption webpage="missing-horn" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3800585863" seo="true" mt="1630143797592" redirect="true"/>
   <file name="animation.html" crc="308441801" seo="true" mt="1630143246925" redirect="true"/>
   <file name="about.html" crc="4035597808" seo="true" mt="1630144113832" redirect="true"/>
   <file name="contact.html" crc="3912395231" seo="true" mt="1630144122992" redirect="true"/>
-  <file name="missing-horn.html" crc="116131158" seo="true" mt="1630142020119" redirect="true"/>
+  <file name="missing-horn.html" crc="48264996" seo="true" mt="1630145853022" redirect="true"/>
   <file name="sock.html" crc="203539781" seo="true" mt="1630142051528" redirect="true"/>
 </manifest>
