@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1630147100073">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1630147544408">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
     <file name="index.css" crc="447727780" ref="index"/>
@@ -256,6 +256,6 @@
   <file name="animation.html" crc="183785745" seo="true" mt="1630146383652" redirect="true"/>
   <file name="about.html" crc="438471278" seo="true" mt="1630146506506" redirect="true"/>
   <file name="contact.html" crc="378063293" seo="true" mt="1630146431582" redirect="true"/>
-  <file name="missing-horn.html" crc="3950527593" seo="true" mt="1630146776193" redirect="true"/>
+  <file name="missing-horn.html" crc="3950527593" seo="true" mt="1630147525955" redirect="true"/>
   <file name="sock.html" crc="329315673" seo="true" mt="1630146833657" redirect="true"/>
 </manifest>
