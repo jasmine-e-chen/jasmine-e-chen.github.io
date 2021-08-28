@@ -6,16 +6,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A71441x249.jpg</image:loc>
+      <image:loc>http://jasmine.com/images/0109353x199.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A71441x249_2x.jpg</image:loc>
+      <image:loc>http://jasmine.com/images/0109353x199_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasmine.com/images/0109441x249.jpg</image:loc>
+      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A71353x199.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jasmine.com/images/0109441x249_2x.jpg</image:loc>
+      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A71353x199_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -23,6 +23,18 @@
     <lastmod>2021-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jasmine.com/images/0109353x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/0109353x199_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A71353x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasmine.com/images/%E5%8A%87%E7%85%A71353x199_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://jasmine.com/about.html</loc>

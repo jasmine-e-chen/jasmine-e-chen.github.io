@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1630145884762">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmine.com" resolutions="1x,2x" timestamp="1630147100073">
   <folder name="css">
     <file name="site_global.css" crc="347579958"/>
-    <file name="index.css" crc="55103289" ref="index"/>
-    <file name="animation.css" crc="433514303" ref="animation"/>
-    <file name="about.css" crc="4225131602" ref="about"/>
-    <file name="contact.css" crc="324373272" ref="contact"/>
-    <file name="sock.css" crc="4166974599" ref="sock"/>
-    <file name="missing-horn.css" crc="105319909" ref="missing-horn"/>
+    <file name="index.css" crc="447727780" ref="index"/>
+    <file name="animation.css" crc="4075940476" ref="animation"/>
+    <file name="about.css" crc="3910765100" ref="about"/>
+    <file name="contact.css" crc="27867100" ref="contact"/>
+    <file name="sock.css" crc="3976621580" ref="sock"/>
+    <file name="missing-horn.css" crc="295324493" ref="missing-horn"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:about:contact:missing-horn:sock"/>
@@ -51,16 +51,16 @@
     <file name="facebook-icon_2x_2x.gif" crc="4170872690" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="20201007114742_1_instagram-appicon-aug2017.jpg" crc="4122300654" seo="true" ref="contact">
+    <file name="20201007114742_1_instagram-appicon-aug2017.jpg" crc="298956522" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="20201007114742_1_instagram-appicon-aug2017_2x.jpg" crc="4230212471" seo="true" ref="contact">
+    <file name="20201007114742_1_instagram-appicon-aug2017_2x.jpg" crc="418998196" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="u1119-4.png" crc="3812488396" ref="contact"/>
-    <file name="u1119-4_2x.png" crc="290619748" ref="contact"/>
-    <file name="u1134-4.png" crc="408344440" ref="contact"/>
-    <file name="u1134-4_2x.png" crc="341675009" ref="contact"/>
+    <file name="u1119-4.png" crc="1110004" ref="contact"/>
+    <file name="u1119-4_2x.png" crc="487875465" ref="contact"/>
+    <file name="u1134-4.png" crc="4120629443" ref="contact"/>
+    <file name="u1134-4_2x.png" crc="4199216170" ref="contact"/>
     <file name="u1202-4.png" crc="176462837" ref="animation"/>
     <file name="u1202-4_2x.png" crc="4099084282" ref="animation"/>
     <file name="u1203-4-a.png" crc="3858854579" ref="animation"/>
@@ -77,70 +77,68 @@
     <file name="u1354-4_2x.png" crc="512698967" ref="missing-horn"/>
     <file name="u1355-4.png" crc="150078192" ref="missing-horn"/>
     <file name="u1355-4_2x.png" crc="4217327934" ref="missing-horn"/>
-    <file name="0109.jpg" crc="254235288" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
-      <caption webpage="sock" alt=""/>
+    <file name="0109.jpg" crc="4071174336" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="0109_2x.jpg" crc="139014702" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
-      <caption webpage="sock" alt=""/>
+    <file name="0109_2x.jpg" crc="456338270" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="u1479-4.png" crc="3955893725" ref="animation"/>
-    <file name="u1479-4_2x.png" crc="3984879381" ref="animation"/>
-    <file name="u1488-4.png" crc="149643576" ref="animation"/>
-    <file name="u1488-4_2x.png" crc="367931099" ref="animation"/>
-    <file name="aniposter2.png" crc="357486634" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
+    <file name="u1479-4.png" crc="398138253" ref="animation"/>
+    <file name="u1479-4_2x.png" crc="4119760629" ref="animation"/>
+    <file name="u1488-4.png" crc="117064897" ref="animation"/>
+    <file name="u1488-4_2x.png" crc="3984756668" ref="animation"/>
+    <file name="aniposter2.png" crc="244138870" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="aniposter2_2x.png" crc="151929904" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
+    <file name="aniposter2_2x.png" crc="3933528825" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="missing horn_角色設定1.jpg" crc="3785422031" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
+    <file name="missing horn_角色設定1.jpg" crc="216314379" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="missing horn_角色設定1_2x.jpg" crc="4050677462" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
+    <file name="missing horn_角色設定1_2x.jpg" crc="3988546276" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="missing horn_分鏡.jpg" crc="477606940" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
+    <file name="missing horn_分鏡.jpg" crc="38036317" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
-    <file name="missing horn_分鏡_2x.jpg" crc="3892403437" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
+    <file name="missing horn_分鏡_2x.jpg" crc="135983011" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="missing-horn:sock"/>
-    <file name="0174.jpg" crc="523772580" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
-      <caption webpage="missing-horn" alt=""/>
-    </file>
-    <file name="0174_2x.jpg" crc="354003524" seo="true" ref="missing-horn">
-      <caption webpage="sock" alt=""/>
-      <caption webpage="missing-horn" alt=""/>
-    </file>
-    <file name="劇照3.jpg" crc="4291913918" seo="true" ref="sock">
+    <file name="0174.jpg" crc="4116851769" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="劇照3_2x.jpg" crc="3791041806" seo="true" ref="sock">
+    <file name="0174_2x.jpg" crc="190985988" seo="true" ref="missing-horn">
+      <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
+    </file>
+    <file name="劇照3.jpg" crc="4003901728" seo="true" ref="sock">
+      <caption webpage="missing-horn" alt=""/>
+      <caption webpage="sock" alt=""/>
+    </file>
+    <file name="劇照3_2x.jpg" crc="3989133762" seo="true" ref="sock">
       <caption webpage="missing-horn" alt=""/>
       <caption webpage="sock" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="missing-horn:sock"/>
-    <file name="u1416-19.png" crc="420391181" ref="missing-horn"/>
-    <file name="u1416-19_2x.png" crc="4059326282" ref="missing-horn"/>
-    <file name="u1466-22.png" crc="365966180" ref="missing-horn"/>
-    <file name="u1466-22_2x.png" crc="221243245" ref="missing-horn"/>
-    <file name="u1616-5.png" crc="316724181" ref="missing-horn"/>
-    <file name="u1616-5_2x.png" crc="4260962460" ref="missing-horn"/>
-    <file name="u1789-6.png" crc="533271759" ref="missing-horn"/>
-    <file name="u1789-6_2x.png" crc="27265157" ref="missing-horn"/>
+    <file name="u1466-22.png" crc="59271181" ref="missing-horn"/>
+    <file name="u1466-22_2x.png" crc="69493492" ref="missing-horn"/>
+    <file name="u1616-5.png" crc="4254207922" ref="missing-horn"/>
+    <file name="u1616-5_2x.png" crc="480546927" ref="missing-horn"/>
+    <file name="u1789-6.png" crc="4251220828" ref="missing-horn"/>
+    <file name="u1789-6_2x.png" crc="4033626908" ref="missing-horn"/>
     <file name="u1997-4.png" crc="176462837" ref="sock"/>
     <file name="u1997-4_2x.png" crc="4099084282" ref="sock"/>
     <file name="u1957-4.png" crc="3858854579" ref="sock"/>
@@ -149,113 +147,115 @@
     <file name="u1959-4_2x.png" crc="512698967" ref="sock"/>
     <file name="u1960-4.png" crc="150078192" ref="sock"/>
     <file name="u1960-4_2x.png" crc="4217327934" ref="sock"/>
-    <file name="u1998-19.png" crc="3853800889" ref="sock"/>
-    <file name="u1998-19_2x.png" crc="512828328" ref="sock"/>
-    <file name="u1958-5.png" crc="316724181" ref="sock"/>
-    <file name="u1958-5_2x.png" crc="4260962460" ref="sock"/>
-    <file name="u1992-6.png" crc="4078526299" ref="sock"/>
-    <file name="u1992-6_2x.png" crc="4147604550" ref="sock"/>
-    <file name="劇照1.jpg" crc="274743979" seo="true" ref="sock">
+    <file name="u1958-5.png" crc="4254207922" ref="sock"/>
+    <file name="u1958-5_2x.png" crc="480546927" ref="sock"/>
+    <file name="u1992-6.png" crc="286818244" ref="sock"/>
+    <file name="u1992-6_2x.png" crc="4118478544" ref="sock"/>
+    <file name="劇照1.jpg" crc="3858760042" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="劇照1_2x.jpg" crc="3953471827" seo="true" ref="sock">
+    <file name="劇照1_2x.jpg" crc="371304778" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="劇照2.jpg" crc="473431292" seo="true" ref="sock">
+    <file name="劇照2.jpg" crc="291706922" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="劇照2_2x.jpg" crc="194602750" seo="true" ref="sock">
+    <file name="劇照2_2x.jpg" crc="3766516948" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sockposter-01.jpg" crc="416027424" seo="true" ref="sock">
+    <file name="sockposter-01.jpg" crc="27125051" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sockposter-01_2x.jpg" crc="4264098807" seo="true" ref="sock">
+    <file name="sockposter-01_2x.jpg" crc="26372184" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="u1996-21.png" crc="3981512072" ref="sock"/>
-    <file name="u1996-21_2x.png" crc="209765704" ref="sock"/>
-    <file name="sock_角色設定1.jpg" crc="4250406771" seo="true" ref="sock">
+    <file name="sock_角色設定1.jpg" crc="195456315" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_角色設定1_2x.jpg" crc="316585636" seo="true" ref="sock">
+    <file name="sock_角色設定1_2x.jpg" crc="4106695267" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_角色設定2.jpg" crc="244283168" seo="true" ref="sock">
+    <file name="sock_角色設定2.jpg" crc="310518254" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_角色設定2_2x.jpg" crc="4146341505" seo="true" ref="sock">
+    <file name="sock_角色設定2_2x.jpg" crc="4248111410" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_分鏡1.jpg" crc="350182406" seo="true" ref="sock">
+    <file name="sock_分鏡1.jpg" crc="4018267793" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_分鏡1_2x.jpg" crc="4149333468" seo="true" ref="sock">
+    <file name="sock_分鏡1_2x.jpg" crc="4257877051" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_分鏡2.jpg" crc="4281118550" seo="true" ref="sock">
+    <file name="sock_分鏡2.jpg" crc="4160157180" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="sock_分鏡2_2x.jpg" crc="17850988" seo="true" ref="sock">
+    <file name="sock_分鏡2_2x.jpg" crc="354834398" seo="true" ref="sock">
       <caption webpage="sock" alt=""/>
     </file>
-    <file name="劇照1441x249.jpg" crc="333570280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="劇照1441x249_2x.jpg" crc="3855311152" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="0109441x249.jpg" crc="3966457923" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="0109441x249_2x.jpg" crc="4111797131" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
-    </file>
-    <file name="u2614-4.png" crc="3955893725" ref="index"/>
-    <file name="u2614-4_2x.png" crc="3984879381" ref="index"/>
-    <file name="u2615-4.png" crc="149643576" ref="index"/>
-    <file name="u2615-4_2x.png" crc="367931099" ref="index"/>
-    <file name="u2795-4.png" crc="186011515" ref="animation"/>
-    <file name="u2795-4_2x.png" crc="4080889852" ref="animation"/>
-    <file name="u2796-4.png" crc="3809657018" ref="animation"/>
-    <file name="u2796-4_2x.png" crc="4088513435" ref="animation"/>
-    <file name="u2785-4.png" crc="65443100" ref="about"/>
-    <file name="u2785-4_2x.png" crc="4156528995" ref="about"/>
-    <file name="u2786-4.png" crc="3947734195" ref="about"/>
-    <file name="u2786-4_2x.png" crc="4012080699" ref="about"/>
-    <file name="u2809-4.png" crc="7905423" ref="contact"/>
-    <file name="u2809-4_2x.png" crc="3787401750" ref="contact"/>
-    <file name="u2810-4.png" crc="3889308086" ref="contact"/>
-    <file name="u2810-4_2x.png" crc="273858793" ref="contact"/>
-    <file name="u2851-4.png" crc="186011515" ref="index"/>
-    <file name="u2851-4_2x.png" crc="4080889852" ref="index"/>
-    <file name="u2852-4.png" crc="3809657018" ref="index"/>
-    <file name="u2852-4_2x.png" crc="4088513435" ref="index"/>
-    <file name="u2869-4.png" crc="4017048101" ref="index"/>
-    <file name="u2869-4_2x.png" crc="4221923098" ref="index"/>
-    <file name="u2872-4.png" crc="4173347850" ref="index"/>
-    <file name="u2872-4_2x.png" crc="338331583" ref="index"/>
-    <file name="u2892-6.png" crc="503331828" ref="about"/>
-    <file name="u2892-6_2x.png" crc="4025871446" ref="about"/>
-    <file name="u2886-4.png" crc="3825608310" ref="about"/>
-    <file name="u2886-4_2x.png" crc="366237139" ref="about"/>
-    <file name="u2895-5.png" crc="97562538" ref="about"/>
-    <file name="u2895-5_2x.png" crc="18390833" ref="about"/>
-    <file name="劇照3_missinghorn.jpg" crc="522463467" seo="true" ref="missing-horn">
+    <file name="u2614-4.png" crc="398138253" ref="index"/>
+    <file name="u2614-4_2x.png" crc="4119760629" ref="index"/>
+    <file name="u2615-4.png" crc="117064897" ref="index"/>
+    <file name="u2615-4_2x.png" crc="3984756668" ref="index"/>
+    <file name="u2795-4.png" crc="3851591880" ref="animation"/>
+    <file name="u2795-4_2x.png" crc="3912529443" ref="animation"/>
+    <file name="u2796-4.png" crc="4076909819" ref="animation"/>
+    <file name="u2796-4_2x.png" crc="4278713266" ref="animation"/>
+    <file name="u2785-4.png" crc="3844138202" ref="about"/>
+    <file name="u2785-4_2x.png" crc="4148219955" ref="about"/>
+    <file name="u2786-4.png" crc="3872768315" ref="about"/>
+    <file name="u2786-4_2x.png" crc="505142233" ref="about"/>
+    <file name="u2809-4.png" crc="329526061" ref="contact"/>
+    <file name="u2809-4_2x.png" crc="62567758" ref="contact"/>
+    <file name="u2810-4.png" crc="4021514392" ref="contact"/>
+    <file name="u2810-4_2x.png" crc="4277768457" ref="contact"/>
+    <file name="u2851-4.png" crc="3851591880" ref="index"/>
+    <file name="u2851-4_2x.png" crc="3912529443" ref="index"/>
+    <file name="u2852-4.png" crc="4076909819" ref="index"/>
+    <file name="u2852-4_2x.png" crc="4278713266" ref="index"/>
+    <file name="u2869-4.png" crc="3814131853" ref="index"/>
+    <file name="u2869-4_2x.png" crc="387917301" ref="index"/>
+    <file name="u2872-4.png" crc="387500679" ref="index"/>
+    <file name="u2872-4_2x.png" crc="53981873" ref="index"/>
+    <file name="u2892-6.png" crc="3871432526" ref="about"/>
+    <file name="u2892-6_2x.png" crc="162905628" ref="about"/>
+    <file name="u2886-4.png" crc="106933132" ref="about"/>
+    <file name="u2886-4_2x.png" crc="64103991" ref="about"/>
+    <file name="u2895-5.png" crc="375754087" ref="about"/>
+    <file name="u2895-5_2x.png" crc="4200784470" ref="about"/>
+    <file name="劇照3_missinghorn.jpg" crc="4143968384" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
     </file>
-    <file name="劇照3_missinghorn_2x.jpg" crc="4285917162" seo="true" ref="missing-horn">
+    <file name="劇照3_missinghorn_2x.jpg" crc="4047294933" seo="true" ref="missing-horn">
       <caption webpage="missing-horn" alt=""/>
     </file>
+    <file name="0109353x199.jpg" crc="2620795" seo="true" ref="index:animation">
+      <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="0109353x199_2x.jpg" crc="3865523526" seo="true" ref="index:animation">
+      <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="劇照1353x199.jpg" crc="3807172477" seo="true" ref="index:animation">
+      <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="劇照1353x199_2x.jpg" crc="152997345" seo="true" ref="index:animation">
+      <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u1416-20.png" crc="3931793959" ref="missing-horn"/>
+    <file name="u1416-20_2x.png" crc="4090502907" ref="missing-horn"/>
+    <file name="u1998-20.png" crc="4155332618" ref="sock"/>
+    <file name="u1998-20_2x.png" crc="3774422623" ref="sock"/>
+    <file name="u1996-22.png" crc="7688362" ref="sock"/>
+    <file name="u1996-22_2x.png" crc="195876138" ref="sock"/>
   </folder>
-  <file name="index.html" crc="3800585863" seo="true" mt="1630143797592" redirect="true"/>
-  <file name="animation.html" crc="308441801" seo="true" mt="1630143246925" redirect="true"/>
-  <file name="about.html" crc="4035597808" seo="true" mt="1630144113832" redirect="true"/>
-  <file name="contact.html" crc="3912395231" seo="true" mt="1630144122992" redirect="true"/>
-  <file name="missing-horn.html" crc="48264996" seo="true" mt="1630145853022" redirect="true"/>
-  <file name="sock.html" crc="203539781" seo="true" mt="1630142051528" redirect="true"/>
+  <file name="index.html" crc="235421842" seo="true" mt="1630147094031" redirect="true"/>
+  <file name="animation.html" crc="183785745" seo="true" mt="1630146383652" redirect="true"/>
+  <file name="about.html" crc="438471278" seo="true" mt="1630146506506" redirect="true"/>
+  <file name="contact.html" crc="378063293" seo="true" mt="1630146431582" redirect="true"/>
+  <file name="missing-horn.html" crc="3950527593" seo="true" mt="1630146776193" redirect="true"/>
+  <file name="sock.html" crc="329315673" seo="true" mt="1630146833657" redirect="true"/>
 </manifest>
